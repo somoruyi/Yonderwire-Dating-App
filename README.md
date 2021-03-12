@@ -1,2 +1,2 @@
-# Yonderwire-Dating-App
-Dating App that uses psychology and astrology to connect STEM professionals with dating matches.
+# NoFlings-Dating-App 
+Dating App that connects individuals looking for real love.
